@@ -88,7 +88,35 @@ This project presents an interactive **Power BI dashboard** built to analyze e-c
 
 The analysis shows that the business is highly dependent on a few key countries and categories. Customer retention and fast delivery options play a significant role in revenue and profitability. Seasonal variations also impact performance, highlighting the need for strategic planning.
 
+---
 
+## 📸 Dashboard Preview
+
+
+---
+
+## 🚀 How to Use
+
+1. Open the `.pbix` file in Power BI Desktop
+2. Use slicers to filter data by Region, Category, Season, and Shipping Mode
+3. Hover over visuals to explore additional insights via tooltips
+4. Analyze trends and insights for better decision-making
+
+---
+
+## 📁 Project Structure
+
+```
+Ecommerce-Sales-Dashboard/
+│
+├── Ecommerce_Sales_Dashboard.pbix
+├── dashboard.png
+├── README.md
+├── sales_data.xlsx (optional)
+└── queries.sql (optional)
+```
+
+---
 
 ## 👨‍💻 Author
 
