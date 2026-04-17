@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project presents an interactive **Power BI dashboard** built to analyze e-commerce sales data. It provides a comprehensive view of sales performance, customer behavior, regional trends, and product category insights through visually rich and interactive reports.
+This project presents an interactive **Power BI dashboard** built to analyze e-commerce sales data. It provides insights into sales performance, customer behavior, regional trends, and product categories through visually rich and interactive reports.
 
 ---
 
@@ -16,11 +16,19 @@ This project presents an interactive **Power BI dashboard** built to analyze e-c
 
 ---
 
+## 🔄 Data Processing Workflow
+
+* Cleaned and prepared raw data using **Microsoft Excel**
+* Performed data analysis and queries using **SQL**
+* Built an interactive dashboard in **Power BI** for visualization and insights
+
+---
+
 ## 🛠️ Tools & Technologies
 
-* **Power BI** – Data visualization & dashboard creation
-* **Microsoft Excel** – Data cleaning & preprocessing
-* **SQL** – Basic data analysis
+* Power BI
+* Microsoft Excel
+* SQL
 
 ---
 
@@ -30,12 +38,8 @@ This project presents an interactive **Power BI dashboard** built to analyze e-c
 * Top 10 countries analysis using **Top N filtering**
 * **Dynamic Title** based on slicer selection
 * **Custom Tooltip** for detailed insights
-* Multiple visualizations:
-
-  * Bar Charts
-  * Line Charts
-  * Funnel Chart
-* KPI Cards (Total Sales, Total Profit, Profit Margin)
+* KPI Cards (Total Sales, Total Profit, Profit %)
+* Multiple visualizations (Bar charts, Line charts, Funnel chart)
 
 ---
 
@@ -44,7 +48,7 @@ This project presents an interactive **Power BI dashboard** built to analyze e-c
 ### 🌍 Regional & Country Insights
 
 * Top 10 countries contribute the majority of total revenue
-* North American countries (Canada, USA, Mexico) dominate overall sales
+* Canada, USA, and Mexico are the top-performing countries
 * Middle East region shows strong performance
 
 ### 📈 Sales & Trend Insights
@@ -82,24 +86,9 @@ This project presents an interactive **Power BI dashboard** built to analyze e-c
 
 ## 📈 Conclusion
 
-The dashboard highlights that the business is highly dependent on a few key countries and categories. Customer retention and fast delivery options play a significant role in revenue and profitability. Additionally, seasonal variations impact both sales and profit, emphasizing the need for strategic planning.
+The analysis shows that the business is highly dependent on a few key countries and categories. Customer retention and fast delivery options play a significant role in revenue and profitability. Seasonal variations also impact performance, highlighting the need for strategic planning.
 
----
 
-## 📸 Dashboard Preview
-
-*(Add your dashboard screenshot here)*
-
----
-
-## 🚀 How to Use
-
-1. Open the `.pbix` file in Power BI Desktop
-2. Use slicers to filter data by Region, Category, Season, and Shipping Mode
-3. Hover over visuals to explore additional insights via tooltips
-4. Analyze trends and insights for better decision-making
-
----
 
 ## 👨‍💻 Author
 
