@@ -91,6 +91,7 @@ The analysis shows that the business is highly dependent on a few key countries 
 ---
 
 ## 📸 Dashboard Preview
+https://github.com/09jatin/E_Commerce_Sales_Dashboard/blob/main/Screenshot%202026-04-17%20125810.png
 
 
 ---
